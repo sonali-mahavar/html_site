@@ -1,0 +1,65 @@
+body{
+  background-color:lightyellow;
+}
+
+nav{
+  height: 50px;
+  background-color: lightblue;
+  width: 100%;
+  line-height:50px;
+}
+nav ul{
+  list-style:none;
+  padding-left:0;
+    display: flex;
+  color:white;
+}
+nav ul li{
+  margin: 0 10px;
+}
+
+#intro{
+  text-align:center;
+}
+main article{
+  display:flex;
+  flex-flow:row nowrap;
+  margin:0 20px;
+}
+#blog-text{
+  width:50%;
+  font-size:25px;
+  
+}
+#blog-text p:first_child {
+	margin-bootom: 40px;
+}
+.card{
+  background-color:lightgray;
+  border-radius:10px;
+  padding-bottom:2px;
+  font-size:10px;
+}
+.card h4{
+  text-align: center;
+}
+.card li{
+  font-size:18px;
+}
+#lower-image{
+  text-align:center;
+}
+
+#lower-image img{
+  width: 35%;
+  height:auto
+}
+
+
+
+
+
+
+
+	 
+.
